@@ -1,6 +1,6 @@
 # Guess-The-Number
 
-OPEN APP --> https://guess-the-number-game-basic.netlify.app/
+[OPEN APP](https://guess-the-number-game-basic.netlify.app/)
 
 Number guessing game where User Speech  analysed using the speech recognition API.
 
